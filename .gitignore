@@ -127,4 +127,4 @@ dist
 .pnp.*
 
 #  Archives
-/src/firebaseConfig.js
+src/firebaseConfig.js
